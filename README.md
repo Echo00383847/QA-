@@ -2,7 +2,7 @@ Name: Ivan Shevchuk
 Role: Junior QA Engineer
 Location: Ukraine
 Email: iwandivan30@gmail.com
-GitHub: github.com/ivanqa
+GitHub: github.com/Echo00383847
 
 🎯 Summary:
 Detail-oriented QA Engineer with experience in web testing (WordPress, Drupal), API testing (Postman), automation (Playwright, Bash), and performance testing (JMeter, Netdata). Passionate about software quality and continuous improvement.
